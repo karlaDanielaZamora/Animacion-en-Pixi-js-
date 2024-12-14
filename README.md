@@ -23,7 +23,7 @@ siento que este proyecto nos da una idea del como hacer uso de pixi js y saber c
 estructura del proyecto: 
 Pixi/
 ├── assets/         #La  Carpeta contiene los recursos visuales y de sonido,
-│   ├── aliend.png     El artista:cubito me ayudo a elaborar el mago, El sonido es un  
+│   ├── aliend.png     El artista:hice una colaboración con cubito elaboro el mago, El sonido es un  
 │   ├── aust.png       fragmento de la cancion: Take A Slice 
 │   ├── Cuad1.jpg     
 │   └── Cuad2.jpg     
