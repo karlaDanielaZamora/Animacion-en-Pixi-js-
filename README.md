@@ -12,7 +12,7 @@ En este proyecto implementa animaciones 2D utilizando Pixi JS, porque utilice Pi
 - Dragging
 - Textured Mesh Basic
 - eventos generados por el mouse, uso de  teclas
-- impotamos la bibloteca que nos brinda Pixi js para integrar sonido   
+- importamos la bibloteca que nos brinda Pixi js para integrar sonido   
 Al igual esta animación cumple con lo que se indico como rotaciones, translaciones y escalamiento aplicados a contenedores, sprites y ropes, transparecia dinamicas.
 
 ¿Por qué el proyecto es útil?
