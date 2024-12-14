@@ -18,10 +18,39 @@ Al igual esta animación cumple con lo que se indico como rotaciones, translacio
 ¿Por qué el proyecto es útil?
 siento que este proyecto nos da una idea del como hacer uso de pixi js y saber como hacer animaciones interactivas en aplicaciones 2D.
 
+![aqui esta el como se veria la animación](https://github.com/user-attachments/assets/a8054185-87e6-4123-a954-436d80630034)
 
-¿Cómo pueden comenzar los usuarios con el proyecto?
-es muy facil hacer uso de este proyecto:
+estructura del proyecto: 
+Pixi/
+├── assets/         #La  Carpeta contiene los recursos visuales y de sonido,
+│   ├── aliend.png     El artista:cubito me ayudo a elaborar el mago, El sonido es un  
+│   ├── aust.png       fragmento de la cancion: Take A Slice 
+│   ├── Cuad1.jpg     
+│   └── Cuad2.jpg     
+│   └── Caud3.jpg     
+│   └── Cuad4.jpg     
+│   └── Cuad5.jpg       
+│   └── espacio.jpg     
+│   └── GatoMar.jpg     
+│   └── luciergana.png   
+│   └── mago.png         
+│   └── sonido.mp3         
+│   └── star.png           
+├── js/                 # Carpeta que contiene el código JavaScript
+│   └── app.js         # archivo principal con la lógica del proyecto 
+│   └── austrou.js        y en los demas js se aplicaron lo que se menciono lo  
+│   └── fondo.js           que incluye el proyecto 
+│   └── imag2.js         
+│   └── imag3.js         
+│   └──imag4.js          
+│   └── imagen1.js       
+│   └── luna.js          
+│   └── star.js          
+│   └──tintado.js        
+├── libs/               # Carpeta para librerías externas
+│   └── pixi.min.js     # Versión minimizada de PixiJS (8.6.2)
+├── index.html          # Archivo principal que conecta todo y ejecuta la aplicación
 
 
-Dónde pueden recibir ayuda los usuarios con tu proyecto
-Quién mantiene y contribuye con el proyecto.
+Gracias por leer, atte.Karla <3
+
